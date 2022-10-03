@@ -18,7 +18,7 @@ KAFKA_CLIENT_ID=
 ## How to use
 
 **Consumer**  
-The example in this folder [consumergroup](https://github.com/artykaikub/go-kafka/tree/master/kafka/example/consumergroup). In this folder, you will find examples of various consumer usage and you can customize different consumers with the option functions that this package provides.
+The example in this folder [consumergroup](https://github.com/artykaikub/go-kafka/tree/main/kafka/example/consumergroup). In this folder, you will find examples of various consumer usage and you can customize different consumers with the option functions that this package provides.
 
 **Producer**  
-This exampe in this folder [producer](https://github.com/artykaikub/go-kafka/tree/master/kafka/example/producer). In this folder, you will find examples of various producer usage and you can customize different producer with the option functions that this package provides. It has both sync and async functions of the producer. It also supports converting partitioner from sarama package to use in this package.
+This exampe in this folder [producer](https://github.com/artykaikub/go-kafka/tree/main/kafka/example/producer). In this folder, you will find examples of various producer usage and you can customize different producer with the option functions that this package provides. It has both sync and async functions of the producer. It also supports converting partitioner from sarama package to use in this package.
