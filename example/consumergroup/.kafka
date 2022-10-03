@@ -1,0 +1,6 @@
+PRODUCER keyed-message
+topic: test_topic
+key: hello
+{
+  "example": "foo"
+}
